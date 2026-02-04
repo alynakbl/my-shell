@@ -40,7 +40,7 @@ To compile and run the shell on your local machine, use the following commands i
 
 ```bash
 # Compile the source code
-gcc -o minishell main.c
+gcc main.c shell.c -o myshell
 
 # Run the executable
-./minishell
+./myshell
