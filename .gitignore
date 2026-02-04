@@ -1,0 +1,6 @@
+*.o
+*.out
+a.out
+MyShell
+.vscode/
+.DS_Store
