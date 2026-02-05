@@ -1,5 +1,23 @@
 *.o
 *.out
 a.out
-.vscode/
 .DS_Store
+
+# Visual Studio geçici dosyaları
+.vs/
+.vscode/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.cache
+*.log
+
+# Derleme çıktıları (exe, obj dosyaları)
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
