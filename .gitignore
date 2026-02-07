@@ -21,3 +21,6 @@ Release/
 *.obj
 *.pdb
 *.ilk
+
+# Sadece derlenmiş çıktı dosyası
+MyShell/myshell
